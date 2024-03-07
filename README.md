@@ -13,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pushpendrapal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pushpendrapal_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pushpendra-pal100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pushpendra-pal100" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17354387/pushpendra-pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pushpendra_pal" height="30" width="40" /></a>
-<a href="https://medium.com/@pushpendrapal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pushpendrapal_" height="30" width="40" /></a>
+<a href="https://twitter.com/pushpendrapal_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pushpendrapal_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pushpendra-pal100" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pushpendra-pal100" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17354387/pushpendra-pal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pushpendra_pal" height="30" width="40" /></a>
+<a href="https://medium.com/@pushpendrapal_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pushpendrapal_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
